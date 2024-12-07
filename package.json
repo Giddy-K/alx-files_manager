@@ -2,7 +2,7 @@
   "name": "files_manager",
   "version": "1.0.0",
   "description": "A simple file management API built with Node.js.",
-  "author": "Gideon Kaiyian <gideonkipamet@gmail.com>",
+  "author": "Gideon Kaiyian <gideonkipamet@gmail.com>, Nathan Nyamira <youremail@example.com>",
   "license": "MIT",
   "private": true,
   "main": "server.js",
